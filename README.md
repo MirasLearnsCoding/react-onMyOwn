@@ -1,0 +1,1 @@
+This is my own react project. I will utilize what I have learned from crush curses on practice.
